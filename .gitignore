@@ -1,7 +1,7 @@
 #################
 ## Eclipse
 #################
-
+XString/
 html/
 *.pydevproject
 .project
